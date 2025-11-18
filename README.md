@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently Student.
 - 🌱 I’m currently doing my BE.
-- 💬  Tech..
+- 💬  Tech.
 - 😄  Hi/Him
 - ⚡ Tech is boring
 -->
