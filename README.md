@@ -11,6 +11,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adi02G&icon=0&color=0)](https://visitcount.itsvg.in)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 
 
